@@ -1,0 +1,6 @@
+#MainNavbar{
+    width: 550px;
+    height: 35px;
+    background: linear-gradient(green, red, purple, maroon);
+    list-style: none;
+}

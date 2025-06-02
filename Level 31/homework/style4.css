@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(235, 224, 194);
+}
+
+#MainDiv{
+    width: 430px;
+    height: 75px;
+    background-color: white;
+    border: solid black 1px;
+}
+
+#Georgia{
+    position: relative;
+    left: 200px;
+    top: -88px;
+    font-weight: 800;
+    font-size: 13px;
+}
+
+#patriarch{
+    position: relative;
+    left: 180px;
+    top: -97px;
+    font-size: 20px;
+}
+
+#Society{
+    font-weight: 800;
+    position: relative;
+    left: 120px;
+    top: -110px;
+    font-size: 14px;
+}
+
+#Jesus{
+    color: maroon;
+    text-align: center;
+    font-size: 19px;
+}
+
+#Jesus-Christ{
+    position: relative;
+    left: 125px;
+    top: 20px;
+}

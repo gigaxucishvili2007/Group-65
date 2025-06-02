@@ -1,0 +1,10 @@
+#Navigation{
+    width: 450px;
+    height: 35px;
+    background-color: rgb(170, 170, 194);
+}
+
+#link:active{
+    color: coral;
+    color: red;
+}
