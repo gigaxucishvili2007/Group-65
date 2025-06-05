@@ -1,0 +1,6 @@
+#last-div{
+    width: 300px;
+    height: 250px;
+    background: linear-gradient(maroon, chartreuse, blue, green);
+    clip-path: circle();
+}
