@@ -1,0 +1,49 @@
+body{
+    background-image: url(./img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#items{
+    color: white;
+    font-size: 10px;
+    display: flex;
+    position: relative;
+    left: 1300px;
+    gap: 45px;
+}
+
+#World{
+    text-transform: uppercase;
+    color: white;
+    width: 100px;
+    position: relative;
+    left: 1400px;
+    top: 210px;
+}
+
+#unknown-text{
+    color: gray;
+    width: 610px;
+    position: relative;
+    left: 1200px;
+    top: 200px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+#sign-in{
+    color: white;
+    text-transform: uppercase;
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    opacity: 0.5;
+    border: solid white 3px;
+    position: relative;
+    left: 1450px;
+    top: 210px;
+}
+
+/* Done */
