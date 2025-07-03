@@ -1,0 +1,12 @@
+div{
+    font-size: 300%;
+    line-height: 50%;
+}
+
+.second-div{
+    font-size: 25px;
+    line-height: 65px;
+    color: green;
+    width: 350%;
+    height: 345%;
+}
